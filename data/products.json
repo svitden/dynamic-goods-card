@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Basketball Mini Ball",
+        "description": "Sport AI Small Basketball Mini Cute Bouncy Ball for Kids,Safe and Soft to Handheld 5\" Green/Blue/Pink Basketballs",
+        "price": 370,
+        "category_id": 1,
+        "url": "./img/ball1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Squirrel Hair Brush",
+        "description": "Art Paint Watercolor Brush Wooden Handle Squirrel Hair (10)",
+        "price": 320,
+        "category_id": 2,
+        "url": "./img/brush1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Squirrel Hair Brush",
+        "description": "Art Paint Watercolor Brush Wooden Handle Squirrel Hair (10)",
+        "price": 250,
+        "category_id": 2,
+        "url": ""
+    }
+]
