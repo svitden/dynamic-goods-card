@@ -1,34 +1,7 @@
 
-/*
-Создайте массив, содержащий ссылки на файлы json, напр:
-var files = ['products.json', 'categories.json', 'users.json'];
-
-В каждом json-файле находятся соответствующие массивы объектов: товары и категории
-
-Объект товара, например:
-{
-	id: 1,
-	title: 'Ball',
-	description: 'Volleyball for kids',
-	price: 100,
-	category_id: 1
-}
-
-Объект категории, например:
-{
-	id: 1,
-	title: 'Sport'
-}
-
-Напишите код, которые все url из этого массива загружает (с помощью fetch) и рисует на странице карточки товаров с полной информацией о них. Вместо id - соответствующие значения. Например, category_id 1 == ‘Sport’.
-
-Стилизация с помощью стилей Bootstrap
-
-*/
-
 // массив, содержащий ссылки на файлы json
 var files = ['products.json', 'categories.json', 'users.json'];
-var idNumber = 2;
+var idNumber = 1;
 
 // получение формата JSON
 function processJSON (response) {
